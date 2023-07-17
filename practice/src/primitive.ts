@@ -16,3 +16,10 @@ console.log(`binary : ${binary}`);
 console.log(`octa : ${octa}`);
 
 console.log(`hexa : ${hexa}`);
+
+// null
+const nul : null = null;
+
+// undefined
+const ud : undefined = undefined;
+
